@@ -29,4 +29,5 @@ Geolocation API: Used to find the user's current location.
 
 # 📧 Contact
 abdullahaydinjobs@gmail.com
+
 Developer: Jlnex
